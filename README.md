@@ -21,3 +21,5 @@ Home Page: Introduction and navigation to other sections.
 About Me: Information about my background and skills.
 Projects: Detailed descriptions of my projects with links to live demos and source code.
 Contact: Form to send messages directly to my email.
+
+<img src="assets/srinivas_portfolio.png">
